@@ -1,0 +1,61 @@
+﻿disease,rank,state,district,score
+Hypertension,1,Sikkim,Namchi,45.3
+Hypertension,2,Sikkim,Mangan,43.35
+Hypertension,3,Kerala,Pathanamthitta,42.0
+Hypertension,4,Andaman And Nicobar Islands,Nicobars,41.2
+Hypertension,5,Punjab,Amritsar,39.45
+Hypertension,6,Punjab,Hoshiarpur,39.45
+Hypertension,7,Sikkim,Gyalshing,38.9
+Hypertension,8,Arunachal Pradesh,Dibang Valley,38.8
+Hypertension,9,Punjab,Bathinda,38.65
+Hypertension,10,Punjab,Gurdaspur,38.0
+Hypertension,11,Punjab,Shahid Bhagat Singh Nagar,37.75
+Hypertension,12,Punjab,Sangrur,37.35
+Hypertension,13,Maharashtra,Sindhudurg,37.25
+Hypertension,14,Nagaland,Zunheboto,37.2
+Hypertension,15,Arunachal Pradesh,West Siang,36.9
+Hypertension,16,Arunachal Pradesh,Anjaw,36.85
+Hypertension,17,Kerala,Kottayam,36.5
+Hypertension,18,Punjab,Barnala,36.4
+Hypertension,19,Punjab,Mansa,36.2
+Hypertension,20,Telangana,Hyderabad,35.95
+Blood sugar,1,Kerala,Pathanamthitta,33.4
+Blood sugar,2,Kerala,Thiruvananthapuram,31.15
+Blood sugar,3,Kerala,Thrissur,30.0
+Blood sugar,4,Kerala,Kottayam,29.05
+Blood sugar,5,Kerala,Kollam,28.2
+Blood sugar,6,Puducherry,Mahe,27.85
+Blood sugar,7,Tamil Nadu,Kanniyakumari,27.1
+Blood sugar,8,Andhra Pradesh,Prakasam,26.7
+Blood sugar,9,Tamil Nadu,Thiruvarur,26.2
+Blood sugar,10,Tamil Nadu,Karur,26.15
+Blood sugar,11,Tamil Nadu,Thanjavur,26.15
+Blood sugar,12,Kerala,Ernakulam,25.65
+Blood sugar,13,Kerala,Palakkad,25.45
+Blood sugar,14,Kerala,Alappuzha,25.3
+Blood sugar,15,Andhra Pradesh,East Godavari,24.65
+Blood sugar,16,Tamil Nadu,Chennai,24.65
+Blood sugar,17,Tamil Nadu,Tiruchirappalli,24.6
+Blood sugar,18,Tamil Nadu,Sivaganga,24.45
+Blood sugar,19,Kerala,Kannur,24.4
+Blood sugar,20,Andhra Pradesh,Guntur,24.3
+Anaemia,1,Ladakh,Leh Ladakh,94.5
+Anaemia,2,Ladakh,Kargil,89.95
+Anaemia,3,Jammu And Kashmir,Kishtwar,86.65
+Anaemia,4,Himachal Pradesh,Lahul And Spiti,86.55
+Anaemia,5,Chhattisgarh,Sukma,84.9
+Anaemia,6,Gujarat,Narmada,84.55
+Anaemia,7,Jammu And Kashmir,Ganderbal,83.5
+Anaemia,8,Gujarat,Arvalli,83.4
+Anaemia,9,Gujarat,Chhotaudepur,83.3
+Anaemia,10,Chhattisgarh,Dakshin Bastar Dantewada,82.95
+Anaemia,11,Gujarat,Valsad,81.65
+Anaemia,12,Gujarat,Dohad,81.15
+Anaemia,13,Gujarat,Kheda,80.6
+Anaemia,14,Gujarat,Panch Mahals,80.4
+Anaemia,15,Gujarat,Dang,79.8
+Anaemia,16,Assam,Udalguri,79.55
+Anaemia,17,Jammu And Kashmir,Budgam,79.45
+Anaemia,18,Chhattisgarh,Narayanpur,79.4
+Anaemia,19,Gujarat,Vadodara,79.35
+Anaemia,20,Gujarat,Mahisagar,79.2

@@ -1,0 +1,716 @@
+device_name,old_category,new_category,new_method,new_confidence,license_no
+Generator,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000009
+Generator,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000009
+Peripheral Balloon Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000014
+Support Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2018/000014
+Support Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2018/000014
+Peripheral Balloon Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000014
+Huber Needle Set,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2018/000017
+Peripheral Balloon Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000032
+Extension set,Diagnostics: Imaging,Critical Care & Respiratory,4,LOW,IMP/MD/2018/000033
+Peripherally Inserted Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000033
+Peripherally Inserted Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000033
+"Air/Water Valve, Suction Valve and Biopsy Valve",Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000044
+"Air/Water Valve, Suction Valve and Biopsy Valve",Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000044
+Absorbable Hemostat Particles,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2018/000056
+Absorbable Hemostat Particles,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2018/000056
+PTFE Coated Guide Wire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000057
+PTFE Coated Guide Wire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000057
+Non-Vascular Guidewire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000059
+Guidewire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000059
+Non-Vascular Guidewires,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000059
+Guidewire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000059
+Non-Vascular Guidewires,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000059
+Non-Vascular Guidewire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000059
+"Catheter, Balloon; Single Use Device",Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000061
+"Catheter, Balloon; Single Use Device",Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000061
+Cutting Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Cutting Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Cutting Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Cutting Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Insertion & Removal Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Insertion & Removal Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Pins & Wires Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Sleeves & Guides Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Insertion & Removal Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Insertion & Removal Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Pins & Wires Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Sleeves & Guides Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000076
+Adult / Pediatric Breathing Circuit with Exhalation Valve,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000123
+Speaking Valve with Oxygen Port,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000123
+Adult / Pediatric Breathing Circuit with Exhalation Valve,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000123
+Speaking Valve with Oxygen Port,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000123
+Exhalation Valve Flow Sensor Reprocessing Kit,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000124
+Exhalation Valve Flow Sensor Reprocessing Kit,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000124
+Handpiece (PRO7100B+13),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000127
+Handpiece (PRO7100B+13),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000127
+"Bare-metal tracheal/bronchial stent, sterile",Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000129
+"Iliac artery stent; Multiple Peripheral artery stent, bare metal; Trachea prosthesis; Bare Metal Biliary stent; Bare Metal Bronchial stent",Gastro / GI,Cardiac & Vascular,1,HIGH,IMP/MD/2018/000129
+"Polymer-metal tracheal/bronchial stent, sterile",Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+Stent System,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000129
+"Bare-metal tracheal/bronchial stent, sterile",Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000129
+"Iliac artery stent; Multiple Peripheral artery stent, bare metal; Trachea prosthesis; Bare Metal Biliary stent; Bare Metal Bronchial stent",Gastro / GI,Cardiac & Vascular,1,HIGH,IMP/MD/2018/000129
+"Polymer-metal tracheal/bronchial stent, sterile",Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000129
+Central Venous Catheterization Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000170
+Central Venous Catheterization Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000170
+Central Venous Catheterization Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000170
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000172
+0.18 OTW PT A Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000172
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000172
+Introducer Sets,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2018/000191
+Seal,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000206
+Seal,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000206
+Guide Wire for Endoscopy,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000226
+Guide Wire for Endoscopy,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000226
+Guide Wire for Endoscopy,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000226
+Guide Wire for Endoscopy,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2018/000226
+Orator- Tracheostomy speaking valve,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000227
+Sodium Hyaluronate,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2018/000302
+Ophtalmic Viscosurgical Device,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2018/000303
+Ophtalmic Viscosurgical Device,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2018/000303
+Central Venous Catheter &  Accessories (Non Sterile Bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000372
+Central Venous Catheter &  Accessories (Non Sterile Bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000372
+Suture Retention Devices,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000396
+Suture Retention Devices,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000396
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2018/000396
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000406
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000406
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000406
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000406
+Central Venous Catheter & Accessories (Non Sterile Bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2018/000415
+Support Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2018/000440
+Angiographic Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000440
+Angiographic Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2018/000440
+SUTURE,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000003
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000003
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000003
+SUTURE,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000003
+Retractor System,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000005
+Navigated Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Navigated Sterile Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Navigated Sterile Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Navigated Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Navigated Sterile Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Navigated Sterile Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+"Mesh Surgical, Metal",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+"Mesh Surgical, Metal",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Retractor/ Attachment,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Retractor/ Attachment,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000037
+Hydrophillic Coated Wire Guide,Orthopedic & Spine,Cardiac & Vascular,2,HIGH,IMP/MD/2019/000096
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000096
+Hydrophillic Coated Wire Guide,Orthopedic & Spine,Cardiac & Vascular,2,HIGH,IMP/MD/2019/000096
+Catheter Mounts,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000098
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000111
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000111
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000111
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000111
+Microcatheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2019/000114
+SwiftNINJA Steerable  Microcatheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2019/000114
+Microcatheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2019/000114
+Disposable Central Venous Catheter Kit,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000115
+Disposable Central Venous Catheter Kit,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000115
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000148
+Central Venous Catheters,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000149
+Haemostat,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000182
+Hemostat,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2019/000182
+Hemostat,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2019/000182
+Hemostat,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2019/000182
+Sutures,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000182
+Sutures,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000182
+Haemostat,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000182
+Hemostat,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2019/000182
+Hemostat,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2019/000182
+Hemostat,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2019/000182
+Sutures,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000182
+Sutures,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000182
+Central Venous Catheter &  Accessories (Non Sterile Bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000195
+Central Venous Catheter & Accessories,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000197
+Central Venous Catheter & Accessories,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000197
+Surgical Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000220
+Surgical Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000220
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000239
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Visualization System,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000248
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Visualization System,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000248
+Manual Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Manual Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Suture Manipulators,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Manual Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Manual Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Suture Manipulators,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000248
+Suturing Device,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000254
+Suturing Device,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000254
+Bronchial Stent (Covered),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000262
+Bronchial Stent (Uncovered),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000262
+Tracheal Stent (Covered),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000262
+Tracheal Stent (Uncovered),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000262
+Bronchial Stent (Covered),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000262
+Tracheal Stent (Covered),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000262
+DISPOSABLE GUIDEWIRE,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000262
+Central Venous Catheters & Accessories,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000266
+Navigated Reusable Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000283
+Navigated Reusable Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000283
+Reusable Instruments (INSERTER/ EXTENDER/ Cannulated TAP),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000283
+POWEREASE Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000283
+Reusable Instruments and Accessories,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000283
+Reusable Instruments and Accessories,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000283
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000285
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000285
+Ablation Device ( Endoscopic Electro surgical Electrode),Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000289
+Ablation Device ( Endoscopic Electro surgical Electrode),Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000289
+Balloon Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2019/000307
+Central venous Catheter Kit,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000325
+Aleutian Interbody Systems Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000344
+Serengeti System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000344
+Terra Nova MI Access System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000344
+Biopsy Kit,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000350
+Flexible Port,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2019/000357
+Disposable Central Venous Catheter Kit,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000411
+Disposable Central Venous Catheter Kit,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000411
+BACKFLUSH AND CANNULAS,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2019/000414
+ILLUMINATED LASER PROBE,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2019/000414
+STERILE SCISSORS,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2019/000414
+Biopsy Kit,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000415
+Balloon Dilatation Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2019/000419
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000445
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000445
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000446
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000446
+NON-ABSORBABLE SURGICAL SUTURE,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+SUTURE,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Manual Instruments - Disposable,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Suture Manipulators,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Manual Instruments - Disposable,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Suture Manipulators,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+SUTURE,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000479
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000527
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2019/000527
+Sutures,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000534
+Sutures,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2019/000534
+Dilating Tip,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000009
+Dilating Tip,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000009
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000011
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000018
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000018
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000018
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000018
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000027
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000031
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000050
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000050
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000050
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000050
+Safety Hubber Needle,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000101
+Safety Hubber Needle,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000101
+Orator- Tracheostomy speaking valve,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000103
+COOLIEF* Cooled Radiofrequency Fluid Delivery Introducer,Critical Care & Respiratory,Neuro,2,HIGH,IMP/MD/2020/000104
+COOLIEF* Cooled Radiofrequency Kit,Critical Care & Respiratory,Neuro,2,HIGH,IMP/MD/2020/000104
+COOLIEF* Cooled Radiofrequency Probe,Critical Care & Respiratory,Neuro,2,HIGH,IMP/MD/2020/000104
+COOLIEF* Multi-cooled Radiofrequency Kit,Critical Care & Respiratory,Neuro,2,HIGH,IMP/MD/2020/000104
+Central Venous Catheters,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000109
+Central Venous Catheters,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000109
+Central Venous Catheters,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000109
+Central Venous Catheters,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000109
+Restoration Anatomic Instruments and capital items,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000112
+Restoration Anatomic Instruments and capital items,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000112
+Hair Implant System,IVF & Women's Health,Aesthetics & Dermatology,2,HIGH,IMP/MD/2020/000122
+Hair Implant System,IVF & Women's Health,Aesthetics & Dermatology,2,HIGH,IMP/MD/2020/000122
+Hair Implant System,IVF & Women's Health,Aesthetics & Dermatology,2,HIGH,IMP/MD/2020/000122
+Hair Implant System,IVF & Women's Health,Aesthetics & Dermatology,2,HIGH,IMP/MD/2020/000122
+Hemostat,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Hemostat,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Hemostat,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Gelatin Hemostatic Agent,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Gelatin Hemostatic Agent,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Hemostat,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Hemostat,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Hemostat,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000124
+Peripheral support catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2020/000166
+Peripheral support catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2020/000166
+Peripherally Inserted Central Venous Catheter Lines (PICC Lines),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000174
+Peripherally Inserted Central Venous Catheter Lines (PICC Lines),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000174
+pistol/pencil Hand control,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000192
+Hand control,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000205
+Hand control,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000205
+Disposable Hypodermic Needles,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000209
+Disposable Hypodermic Needles,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000209
+Huber needle set,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000211
+Huber needle set,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000211
+Hemostatic Matrix,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000219
+Hemostatic Matrix,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2020/000219
+Peripheral Balloon Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2020/000232
+AVS System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000259
+Oasys System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000259
+Reflex Hybrid System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000259
+Solis System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000259
+XIA 3 System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000259
+XIA II System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000259
+Accessory,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000274
+Accessory,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000274
+Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000343
+Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000343
+Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000343
+Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000343
+Central Venous Catheter Kits,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000366
+Central Venous Catheter Kits,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000366
+Needles,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000367
+Needles,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2020/000367
+"NON-ABSORBABLE SURGICAL STAINLESS STEEL SUTURE, U.S.P.",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000374
+Ablation Device,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000410
+Ablation device (GENERATOR),Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000410
+Ablation Device   (GENERATOR),Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000410
+Balloon Dilatation Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2020/000430
+Tissue Retrieval System,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000441
+Tissue Retrieval System,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2020/000441
+Central Venous Catheter,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2020/000463
+Sodium Hyaluronate Prefilled Syringe,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2020/000505
+Sodium Hyaluronate Prefilled Syringe,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2020/000505
+Sodium Hyaluronate Prefilled Syringe,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2020/000505
+Sodium Hyaluronate Prefilled Syringe,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2020/000505
+Sodium Hyaluronate Prefilled Syringe,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2020/000505
+Sodium Hyaluronate Prefilled Syringe,Aesthetics & Dermatology,Ophthalmic,2,HIGH,IMP/MD/2020/000505
+"Steel wire monofilament, non-absorbable, surgical suture",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000519
+Cross linked sodium hyaluronate 22mg/ml,Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000579
+Cross linked sodium hyaluronate 22mg/ml,Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2020/000579
+Visualization System,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000007
+Visualization System,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000007
+Synmesh,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000024
+"Hyaluronic Acid, Stabilized Single Injection 60mg/3mL",Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000026
+"Hyaluronic Acid, Stabilized Single Injection 60mg/3mL",Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000026
+Polyblend Non- Absorbable Surgical Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000029
+Percutaneous Lead Introducer,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2021/000037
+Trabecular Micro-Bypass Stent System,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2021/000067
+istent infinite Trabecular Micro-Bypass System,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2021/000067
+Trabecular Micro-Bypass Stent System,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2021/000067
+istent infinite Trabecular Micro-Bypass System,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2021/000067
+Bending Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Cable and Wire Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Cervical Cages Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Cleaning Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Cutting Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+"Forceps,Pliers,and Holding",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (Al Alloy),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (CFK),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (CFK-PEEK/SSt),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (MDR),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (PPSU),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (SSt/PEEK),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Guiding Blocks and Aiming Instruments (Stainless Steel),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Instrument Handles (PPSU),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Instrument Handles (PPSU/SST),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Instrument Handles (Stainless Steel),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+"Instrument Handles (Stainless Steel,  Silicone Rubber)",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Retractors (PPSU),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Retractors (Stainless Steel),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Torque Limiting Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000071
+Central venous catheter & accessories (Non sterile bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000081
+SynMesh-Corpectomy Device,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000087
+SynMesh-End Ring,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000087
+Central Venous Access Sheath,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 1,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 2,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 3,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 4,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 5,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 6,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Access Sheath,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 1,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 2,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 3,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 4,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 5,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Central Venous Catheter 6,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000101
+Accessory,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000116
+"Endoscopic guidewire, single use",Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000120
+Generators,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000196
+Generators,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000196
+Pulse generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000201
+Central Venous Access Sheath,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 3,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 4,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 7,Gastro / GI,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 8,Gastro / GI,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Access Sheath,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 3,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 4,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 7,Gastro / GI,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Central Venous Catheter 8,Gastro / GI,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000203
+Pulse generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000222
+Pulse generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000222
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000222
+Pulse Generator,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000222
+Titanium Mesh,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000229
+SYNMESH,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000240
+SYNMESH,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000240
+Central Venous Access Sheath,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 1,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 10,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 2,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 3,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 8,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 9,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Access Sheath,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 1,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 10,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 2,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 3,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 8,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Central Venous Catheter 9,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000259
+Lead and Extension Insertion tool,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000339
+Huber Needle Set,"Needles, Syringes & Catheters (general)",Dental,2,HIGH,IMP/MD/2021/000347
+MatriDerm,Aesthetics & Dermatology,Surgical & Endoscopy,4,LOW,IMP/MD/2021/000376
+MatriDerm,Aesthetics & Dermatology,Surgical & Endoscopy,4,LOW,IMP/MD/2021/000376
+Balloon  Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000389
+Balloon  Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000389
+Posterior Connectors - Clamp,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000412
+Axon and OC Fusion - Clamp,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000412
+Expandable Corpectomy Device (ECD) - Locking Clip,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000412
+Posterior Connectors - Clamp,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000412
+Extension Kit,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000419
+Implanted Lead,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000419
+Implanted Surgical Leads,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2021/000419
+Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000472
+Ventricular Catheter,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000481
+Ventricular Catheter,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000481
+Sleeve,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000490
+Sleeve,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000490
+Sleeve,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000490
+Sleeve,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2021/000490
+CENTRAL VENOUS CATHETER SETS,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000491
+Balloon Catheter,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2021/000544
+Paclitaxel Eluting Peripheral Balloon Dilatation Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2021/000547
+Peripheral Balloon Dilatation Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2021/000547
+Peripheral Balloon Dilatation Catheter for Infrapopliteal Arteries,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2021/000547
+Central Venous Catheter,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000565
+Central Venous Catheter,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000565
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2021/000566
+Support Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2021/000693
+Support Catheter,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2021/000693
+Ophtalmic Viscosurgical Device,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2021/000749
+Ophtalmic Viscosurgical Device,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2021/000749
+Ophtalmic Viscosurgical Device,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2021/000749
+Cartridge-Injector System,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2021/000749
+Catheter Mounts,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2022/000039
+Absorbable Hemostat Absorbable Particles,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000083
+PRO System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2022/000127
+PTFE Coated Guide Wire,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000133
+LARYNGOTRACHEOBRONCHIAL SILICONE STENTS,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2022/000135
+"Mesh Surgical, Metal",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2022/000148
+Koh efficient system,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000150
+Koh Efficient System,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000150
+Injector System,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2022/000346
+Surgical Nd;YAG laser system,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000396
+Central Venous Catheters Kits,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2022/000403
+Percutaneous Lead Introducer,"Needles, Syringes & Catheters (general)",Cardiac & Vascular,2,HIGH,IMP/MD/2022/000429
+Central Venous Catheter Kit/Set,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2022/000488
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000501
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000501
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000501
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000501
+Accessory,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000516
+Obturator,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000523
+Injector Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000551
+Central venous catheter navigation system,Dialysis & Renal,Critical Care & Respiratory,1,HIGH,IMP/MD/2022/000565
+Trios Patient Monitoring,Critical Care & Respiratory,Dental,2,HIGH,IMP/MD/2022/000568
+Trocar,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000569
+Trocar Kit,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000569
+Robotic Surgical System,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2022/000588
+Robotic Surgical System,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2022/000588
+Handpiece Adapter,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2022/000599
+Entry Site Alignment System with Valve,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2022/000654
+Peripherally Inserted Central Venous Catheter,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2022/000677
+Hyaluronidase Solution,Aesthetics & Dermatology,IVF & Women's Health,2,HIGH,IMP/MD/2022/000690
+Hasson Cone,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000731
+Accessory,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2022/000733
+Stainless Steel Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2022/000736
+Stainless Steel Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2022/000736
+Valved Entry System,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2022/000753
+Tubing Set,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2022/000753
+Opthalamic surgical procedure kit,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000753
+Irrigation and Aspiration Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000756
+Irrigation & Aspiration Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000756
+Silicon coated Irrigation & Aspiration Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000756
+Peripheral IVL Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2022/000764
+Peripheral IVL Catheter,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2022/000764
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000781
+Trios Patient Monitoring,Critical Care & Respiratory,Dental,2,HIGH,IMP/MD/2022/000786
+Trios Patient Monitoring,Critical Care & Respiratory,Dental,2,HIGH,IMP/MD/2022/000789
+Goniotomy Dual Blade,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2022/000794
+SAW BLADES,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000018
+SAW BLADES,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000053
+Hasson Cone,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000055
+BIPOLAR FORCEPS,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000060
+YelloPort Elite,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000074
+YelloPort Plus,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000074
+Procedure Kit,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000103
+Cross linked  Sodium Hyaluronate 88 mg with Triamcinolone Hexacetonide 18mg,Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000121
+PRO System Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000144
+T2 Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000144
+Accessory,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000156
+Papillotomes with or without preloaded guide wire (PAP series),Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000169
+"Suture/needle passer, reusable",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000172
+"Suture/needle passer, single-use",Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000172
+Surgical Instruments (Non sterile),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Surgical Instruments (Sterile),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Surgical Instruments (Non sterile),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Surgical Instruments (Non sterile),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Reusable Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Single Use Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000186
+Tubing Pack,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/000222
+Tubing Pack,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/000222
+Tubing Pack,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/000222
+One Series Ultra Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000237
+Platinum Push Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000237
+THE UNFOLDER PLATINUM 1 SERIES HANDPIECE,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000237
+Connection to handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000238
+Connection to handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000239
+Insufflator Unit,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000244
+Tube,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000244
+KniFe,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000244
+blade,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000244
+bladE,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000244
+Manipulator,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000244
+Forceps,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000246
+Scissors,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000246
+Bipolar Cautery,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000246
+Directional Laser Probe,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000246
+Laser Probe,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000246
+Excimer laser system,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000251
+Irrigation and Aspiration Handpieces,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000264
+"NS Handpieces, attachments, foot attachments",Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000275
+Monopolar Electrode,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000278
+APC Applicator,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000278
+APC Applicator,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000278
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000280
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000280
+Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000280
+Trocar,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000336
+Trocar Kit,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000336
+Thermage FLX system & its Accessories,Ophthalmic,Aesthetics & Dermatology,2,HIGH,IMP/MD/2023/000357
+Ankylos Extension Instrument,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000365
+Xive Extension Instrument,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000365
+Endoscopes and accessories,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000372
+Tubing Pack,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/000383
+Tubing Pack,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/000383
+Tubing Pack,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/000383
+Skin Grafting instrument,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting instrument,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2023/000388
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000390
+Computer assisted surgical instrument system,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000391
+Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000391
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+I/A Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000394
+Attachments - Saw Blades,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000408
+Insufflator 50L,Diagnostics: Imaging,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000428
+Surgical Saw Blades,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000431
+Reusable Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Sterile Single Use Instruments and Kits,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Sterile Single Use Instruments and Kits,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Surgical Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+Reusable Surgical Instrument,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000436
+FUJI IP Cassette,Orthopedic & Spine,Diagnostics: Imaging,2,HIGH,IMP/MD/2023/000444
+Overtube,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000445
+Overtube,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000445
+Instruments,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000452
+Instruments,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000452
+FCR,Orthopedic & Spine,Diagnostics: Imaging,2,HIGH,IMP/MD/2023/000456
+CENTRAL VENOUS CATHETER SETS,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2023/000490
+CENTRAL VENOUS CATHETER SETS,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2023/000490
+CENTRAL VENOUS CATHETER SETS,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2023/000490
+Insufflator,Diagnostics: Imaging,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000538
+Handpiece for Microkeratome,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000563
+Single Use Heads & Blades,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000563
+Trephine Blades,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/000563
+Navigation Accessory (Handle),Orthopedic & Spine,Neuro,1,HIGH,IMP/MD/2023/000569
+Navigation Accessory (Framelink S7 application),Surgical & Endoscopy,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (S8 Stealthlink/Stealthviz/Clinical software),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (S8 ZEISS UPG),ENT & Hearing,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Software Fusion ENT/3D Spine/Synergy cranial/ Synergy spine/ Spine unified),ENT & Hearing,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Software Mach polestar/Touch N-Go/Cranial system Plus/EMPCA-Plus),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Software microcal plus),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (SONOSITE MTURBO S8),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Stealth Air),Orthopedic & Spine,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Stealth Flex ENT EU-SC),ENT & Hearing,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Stealth S8 ENT/S8 ENT Plan station),ENT & Hearing,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (Stealthstation S8 Integration Kit /Sononav Sonosite Intg),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (StealthStation S8 StealthLink Set/Cranial Software),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (StealthViz W/DTI/UPG/S8 INT),Diagnostics: Imaging,Neuro,1,HIGH,IMP/MD/2023/000576
+Navigation Accessory (SteathStation S8 Zeiss Pentero Interface Kit),Dental,Neuro,1,HIGH,IMP/MD/2023/000576
+Surgical Instruments (for the Mazor X System),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000578
+Surgical Instruments (for the Mazor X System),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000578
+Surgical Instruments (for the Mazor X System),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000578
+Surgical Instruments (for the Mazor X System),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000578
+Surgical Instruments (for the Mazor X System),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000578
+Surgical Instruments (for the Mazor X System),Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/000578
+T2/T3/T4  highspeed handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000611
+Insufflator and Accessories,Diagnostics: Imaging,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000661
+Caps & clips,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/000689
+Gas Line Filter,Cardiac & Vascular,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000737
+FCR,Orthopedic & Spine,Diagnostics: Imaging,2,HIGH,IMP/MD/2023/000776
+FCR,Orthopedic & Spine,Diagnostics: Imaging,2,HIGH,IMP/MD/2023/000776
+FCR,Orthopedic & Spine,Diagnostics: Imaging,2,HIGH,IMP/MD/2023/000776
+FUJI IP Cassette,Orthopedic & Spine,Diagnostics: Imaging,2,HIGH,IMP/MD/2023/000776
+Tracheal Stent,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2023/000808
+Trios Patient Monitoring,Critical Care & Respiratory,Dental,2,HIGH,IMP/MD/2023/000894
+Generator,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2023/000896
+Accuject Injector,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/001175
+Viscoject  Injector,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/001175
+Viscoject Injector,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2023/001175
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/001192
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/001192
+Connection to Handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/001212
+Disposable Surgical Pulse Lavage Systems,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2023/001274
+Laser Probe,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2023/001276
+Programmer,Diagnostics: Imaging,Cardiac & Vascular,2,HIGH,IMP/MD/2023/001335
+Medical Diode Laser,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2023/001384
+Hyaluronidase solution,Aesthetics & Dermatology,IVF & Women's Health,2,HIGH,IMP/MD/2024/000001
+ULTRAFORMER III,Diagnostics: IVD & Lab,Aesthetics & Dermatology,2,HIGH,IMP/MD/2024/000145
+Surgical Drilling Machine,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000151
+Surgical Drilling Machine,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000151
+Femtosecond Laser System,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000203
+Cannula Insertion System,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2024/000222
+Vitreous Cutter,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000222
+Surgical Unit,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2024/000233
+Surgical Unit,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2024/000233
+Rotational Catheter set,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2024/000306
+Rotational Catheter set,Neuro,Cardiac & Vascular,2,HIGH,IMP/MD/2024/000306
+Tracheal Stent,Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2024/000372
+Cryosurgical  Console,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000426
+Cryosurgical  Probe,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000426
+Cryosurgical Probe:  Single use,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000426
+Cannula,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2024/000433
+Soft Tissue Diode Laser,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2024/000441
+Soft Tissue Diode Laser,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2024/000441
+Cannula Insertion System,"Needles, Syringes & Catheters (general)",Ophthalmic,2,HIGH,IMP/MD/2024/000464
+CALIBRATED LASIK BLADES,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000495
+Peripheral Orbital Atherectomy System,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2024/000504
+Visual Electrophysiology System,Cardiac & Vascular,Ophthalmic,2,HIGH,IMP/MD/2024/000524
+Peripheral Orbital Atherectomy System,Dialysis & Renal,Cardiac & Vascular,2,HIGH,IMP/MD/2024/000530
+"COOLIEF RF Generator, Advanced",Diagnostics: IVD & Lab,Neuro,2,HIGH,IMP/MD/2024/000548
+"COOLIEF RF Generator, Basic",Diagnostics: IVD & Lab,Neuro,2,HIGH,IMP/MD/2024/000548
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Surgical Instruments,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000574
+Central Venous Catheter & Accessories (Non Sterile Bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2024/000655
+VICTUS Femtosecond Laser Platform with its Accessories & Spare Parts,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000682
+Trocar,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000720
+Robotic Hair Implant System,IVF & Women's Health,Aesthetics & Dermatology,2,HIGH,IMP/MD/2024/000769
+Central Venous Catheter Kit,"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2024/000791
+Beaver Safety Slit Knife,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000792
+Cautery Device & Erasers,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000792
+"Cortical Cleaving Hydrodissector. Round end, 27G",Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2024/000792
+Injectable Hyaluronic Acid,Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000831
+Injectable Hyaluronic Acid,Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000831
+Injectable Hyaluronic Acid,Aesthetics & Dermatology,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000831
+Hemostatic Agent,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2024/000945
+General Instruments- Gauges,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000985
+General Instruments- Trocar,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2024/000985
+Morcellator,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2024/000999
+Diode Laser,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2024/001028
+Shaver Blades,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2025/000007
+Handpieces,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000061
+Handpieces,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000061
+Handpieces (High-speed Air Turbine),Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000061
+"Navigation Accessory (Cranial Reference Frame, Driver)",Orthopedic & Spine,Neuro,1,HIGH,IMP/MD/2025/000110
+Navigation Accessory (S7 Synergy Spine),Orthopedic & Spine,Neuro,1,HIGH,IMP/MD/2025/000110
+Air Driven High Speed Handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000111
+Excimer Refractive Laser,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2025/000147
+Transducer,Diagnostics: Imaging,Aesthetics & Dermatology,2,HIGH,IMP/MD/2025/000326
+Skin Grafting Blade,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2025/000357
+Laparoscope,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2025/000381
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2025/000393
+Skin Grafting Instruments,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2025/000393
+Monopolar Electrodes,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2025/000408
+Instrument for handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000461
+RF System with Non-Invasive Applicators,"Needles, Syringes & Catheters (general)",Aesthetics & Dermatology,2,HIGH,IMP/MD/2025/000471
+Generator,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2025/000483
+Hemostatic Matrix,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2025/000501
+Hemostatic Matrix,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2025/000501
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2025/000561
+Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2025/000570
+Catheter (Tracheo/Bronchial Stent with Delivery System),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2025/000579
+Trocar Set,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2025/000638
+Intraoral Digital Impression Instrument,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000679
+Intraoral Digital Impression Instrument,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000679
+SKIN GRAFT BLADES,Cardiac & Vascular,Surgical & Endoscopy,1,HIGH,IMP/MD/2025/000701
+Surgical Tools,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2025/000727
+Patient Monitoring,Critical Care & Respiratory,Dental,2,HIGH,IMP/MD/2025/000728
+Flexible Argon probe,Diagnostics: IVD & Lab,Surgical & Endoscopy,2,HIGH,IMP/MD/2025/000740
+Trios Patient Monitoring,Critical Care & Respiratory,Dental,2,HIGH,IMP/MD/2025/000802
+Gas Conditioning Port,"Needles, Syringes & Catheters (general)",Surgical & Endoscopy,2,HIGH,IMP/MD/2026/000051
+Hasson Cone,Orthopedic & Spine,Surgical & Endoscopy,2,HIGH,IMP/MD/2026/000092
+Microsurgical Blades/Knives,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2026/000104
+AnyGuide R2 Surgical Kit,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2026/000146
+Surgical Kits,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2026/000146
+Hyaluronidase Solution,Aesthetics & Dermatology,IVF & Women's Health,2,HIGH,IMP/MD/2026/000317
+Enzymatic cleaner for Medical Instruments and Endoscopes,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2026/000352
+Irrigation & aspiration handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2026/000376
+Irrigation & Aspiration Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2026/000376
+Silicon Coated Irrigation & Aspiration Handpiece,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2026/000376
+Universal RF System,Surgical & Endoscopy,Neuro,2,HIGH,IMP/MD/2026/000442
+Insufflator,Diagnostics: Imaging,Surgical & Endoscopy,2,HIGH,IMP/MD/2026/000513
+SELF-EXPANDABLE METALIC STENTS (Tracheal / Bronchial Stent),Cardiac & Vascular,Critical Care & Respiratory,1,HIGH,IMP/MD/2026/000542
+Nonabsorbable Stainless Steel Surgical Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2026/000565
+Polytetrafluoroethylene Nonabsorbable Suture,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2026/000565
+Ultra-High-Molecular-Weight-Polyethylene (UHMWPE) Nonabsorbable Suture,Surgical & Endoscopy,Orthopedic & Spine,2,HIGH,IMP/MD/2026/000565
+High-speed Air Turbine Handpiece,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2026/000592
+Microsurgical Blades/Knives,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2026/000622
+Laser Probe,Surgical & Endoscopy,Ophthalmic,2,HIGH,IMP/MD/2026/000636
+Caps & clips,Surgical & Endoscopy,Dental,2,HIGH,IMP/MD/2026/000651
+Central Venous Catheter &  Accessories (Non Sterile Bulk),"Needles, Syringes & Catheters (general)",Critical Care & Respiratory,1,HIGH,IMP/MD/2026/000652
+Absorbable Adhesion Barrier Gel,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2026/000695
+Absorbable Adhesion Barrier Gel,IVF & Women's Health,Surgical & Endoscopy,2,HIGH,IMP/MD/2026/000695

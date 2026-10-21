@@ -1,0 +1,18 @@
+# raw FDA download (about 1.58 GB, too big for GitHub)
+Data/device-510k-0001-of-0001.json
+# big backups and scratch files
+Output/archive/
+Output/_audit/*backup*
+*.bak
+# python junk
+__pycache__/
+*.pyc
+# notes and secrets
+lineage.txt
+vars.txt
+*password*
+.env
+# third-party raw files: download links are in the README
+Data/NDAP_REPORT_6822.csv
+Data/6822_METADATA.csv
+Data/India_Medical_Device_Imports.xlsx

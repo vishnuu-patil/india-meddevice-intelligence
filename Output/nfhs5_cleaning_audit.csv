@@ -1,0 +1,4 @@
+﻿state,district,district_lgd_code,column,old_value,action
+Chhattisgarh,Raigarh,386,bp_elevated_men_pct,0.0,blanked (0.0 is a placeholder)
+Maharashtra,Raigad,491,bp_elevated_men_pct,0.0,blanked (0.0 is a placeholder)
+Maharashtra,Dhule,474,women_tobacco_pct,0.0,"flagged, kept"

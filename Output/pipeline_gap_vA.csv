@@ -1,0 +1,19 @@
+﻿category,rank,fda_rows,cdsco_licences,cdsco_rows,fda_share_pct,cdsco_share_pct,share_gap_pp,cdsco_share_if_rows_pct,old_row_gap_pp
+Orthopedic & Spine,1,4334,576,4189,18.4,9.4,9.0,18.7,-0.3
+Diagnostics: IVD & Lab,2,1807,109,347,7.7,1.8,5.9,1.5,6.2
+Diagnostics: Imaging,3,3858,751,1730,16.4,12.2,4.2,7.7,8.7
+Neuro,4,1466,165,445,6.2,2.7,3.5,2.0,4.2
+IVF & Women's Health,5,734,127,447,3.1,2.1,1.0,2.0,1.1
+Dental,6,2110,499,1982,9.0,8.1,0.9,8.8,0.2
+Aesthetics & Dermatology,7,506,90,207,2.2,1.5,0.7,0.9,1.3
+ENT & Hearing,8,370,83,239,1.6,1.4,0.2,1.1,0.5
+Blood & Transfusion,9,4,60,188,0.0,1.0,-1.0,0.8,-0.8
+Gastro / GI,10,272,142,555,1.2,2.3,-1.1,2.5,-1.3
+Urology,11,238,132,379,1.0,2.2,-1.2,1.7,-0.7
+Wound Care,12,268,151,498,1.1,2.5,-1.4,2.2,-1.1
+Dialysis & Renal,13,73,125,329,0.3,2.0,-1.7,1.5,-1.2
+Surgical & Endoscopy,14,2030,684,2449,8.6,11.2,-2.6,10.9,-2.3
+Critical Care & Respiratory,15,1465,579,1519,6.2,9.4,-3.2,6.8,-0.6
+Cardiac & Vascular,16,2860,973,3967,12.2,15.9,-3.7,17.7,-5.5
+Ophthalmic,17,435,350,1538,1.9,5.7,-3.8,6.9,-5.0
+"Needles, Syringes & Catheters (general)",18,675,537,1435,2.9,8.8,-5.9,6.4,-3.5

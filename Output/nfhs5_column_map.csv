@@ -1,0 +1,21 @@
+﻿new_name,original_name,ndap_code,group
+state_lgd_code,State lgd code,StateCode,Key
+state,State,StateName,Key
+district_lgd_code,District lgd code,DistrictCode,Key
+district,District,DistrictName,Key
+bp_elevated_men_pct,Elevated blood pressure or taking medicine to control blood pressure (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_70,Hypertension
+bp_elevated_women_pct,Women suffering from elevated blood pressure (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_108,Hypertension
+bp_mild_men_pct,Men-mildly elevated blood pressure (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_71,Hypertension
+bp_mild_women_pct,Women-mildly elevated blood pressure (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_109,Hypertension
+bp_severe_men_pct,Moderately or severely elevated blood pressure (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_72,Hypertension
+bp_severe_women_pct,Women-moderately or severely elevated blood pressure (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_110,Hypertension
+sugar_high_men_pct,Men suffering from high or very high blood sugar level (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_68,Blood sugar
+sugar_high_women_pct,Women suffering from high or very high blood sugar level (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_106,Blood sugar
+sugar_veryhigh_men_pct,Men suffering from very high blood sugar level (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_69,Blood sugar
+sugar_veryhigh_women_pct,Women suffering from very high blood sugar level (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_107,Blood sugar
+anaemia_women_15_49_pct,Women age group 15 to 49 years who are anaemic (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_8,Anaemia
+anaemia_women_15_19_pct,Women age group 15 to 19 years who are anaemic (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_7,Anaemia
+anaemia_children_6_59m_pct,Children age group 6 to 59 months who are anaemic (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_30,Anaemia
+women_overweight_obese_pct,Women who are overweight or obese (%)  (UOM:%(Percentage)) |Scaling Factor:1,I6822_101,Overweight
+men_tobacco_pct,Men age group 15 years and above who use any kind of tobacco (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_66,Tobacco
+women_tobacco_pct,Women age 15 years and above who use any kind of tobacco (%) (UOM:%(Percentage)) |Scaling Factor:1,I6822_96,Tobacco

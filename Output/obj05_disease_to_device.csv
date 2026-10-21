@@ -1,0 +1,5 @@
+﻿disease,device_category,cdsco_licences,cdsco_share_pct,district_avg_score,district_min_score,district_max_score,note
+Hypertension,Cardiac & Vascular,1005,15.0,23.1,9.7,45.3,mapping is analyst judgement
+Blood sugar,Diagnostics: IVD & Lab,134,2.0,13.6,4.9,33.4,mapping is analyst judgement
+Blood sugar,Dialysis & Renal,133,2.0,13.6,4.9,33.4,mapping is analyst judgement
+Anaemia,Diagnostics: IVD & Lab,134,2.0,61.0,24.4,94.5,mapping is analyst judgement

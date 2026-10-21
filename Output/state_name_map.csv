@@ -1,0 +1,26 @@
+﻿cdsco_state,nfhs_state,matched,note
+Andhra Pradesh,Andhra Pradesh,True,same name
+Bihar,Bihar,True,same name
+Chandigarh,,False,not in NFHS file
+Chhattishgarh,Chhattisgarh,True,renamed
+Dadra And Nagar Haveli,The Dadra And Nagar Haveli And Daman And Diu,True,renamed
+Daman And Diu,The Dadra And Nagar Haveli And Daman And Diu,True,renamed
+Delhi,Delhi,True,same name
+Goa,Goa,True,same name
+Gujarat,Gujarat,True,same name
+Haryana,Haryana,True,same name
+Himachal Pradesh,Himachal Pradesh,True,same name
+Jammu And Kashmir,Jammu And Kashmir,True,same name
+Karnataka,Karnataka,True,same name
+Kerala,Kerala,True,same name
+Madhya Pradesh,Madhya Pradesh,True,same name
+Maharashtra,Maharashtra,True,same name
+Orissa,Odisha,True,renamed
+Puducherry,Puducherry,True,same name
+Punjab,Punjab,True,same name
+Rajasthan,Rajasthan,True,same name
+Tamil Nadu,Tamil Nadu,True,same name
+Telangana,Telangana,True,same name
+Uttar Pradesh,Uttar Pradesh,True,same name
+Uttarakhand,Uttarakhand,True,same name
+West Bengal,West Bengal,True,same name
