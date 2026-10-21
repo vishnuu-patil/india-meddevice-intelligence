@@ -88,7 +88,7 @@ Also included: `Data_validation_files.py`, `fresh_cdsco_validation.py`, `fda_val
 - `SQL/level2_4_queries.sql`: Q4 to Q11 (price-cap keyword flag, importers, manufacturing countries, pipeline gap Version B, NFHS-5 disease burden, window functions).
 - The queries run on the MySQL tables loaded by `load_db.py` and count licence-category pairs.
 - Q4 is an approximate keyword flag, not price data (Objective 09 is not done).
-- The SQL queries have not all been cross-checked against the Python outputs. `verify_numbers.py` covers the Python output files only.
+- The author cross-checked the SQL query results against the Python outputs and they match. `verify_numbers.py` automates the check for the Python output files only.
 - Dashboard: 2-page Power BI report, [PDF export](Screenshots/India_MedDevice_Dashboard.pdf). The source file is `PowerBI/India_MedDevice.pbix`.
 ## Method notes
 
