@@ -82,6 +82,14 @@ Paths are relative to the repo root; scripts must sit next to `Data/` and `Outpu
 
 Also included: `Data_validation_files.py`, `fresh_cdsco_validation.py`, `fda_validate_and_fix.py`, `fda_validate_and_fix_v3.py`, `sample_fda_v2.py`, `sample_fda_v3.py` (sampling and checking helpers).
 
+## SQL and dashboard
+
+- `SQL/level1_basic.sql`: Q1 to Q3 (category ranking, new registrations per year, device-class mix).
+- `SQL/level2_4_queries.sql`: Q4 to Q11 (price-cap keyword flag, importers, manufacturing countries, pipeline gap Version B, NFHS-5 disease burden, window functions).
+- The queries run on the MySQL tables loaded by `load_db.py` and count licence-category pairs.
+- Q4 is an approximate keyword flag, not price data (Objective 09 is not done).
+- The SQL queries have not all been cross-checked against the Python outputs. `verify_numbers.py` covers the Python output files only.
+- Dashboard: 2-page Power BI report, [PDF export](Screenshots/India_MedDevice_Dashboard.pdf). The source file is `PowerBI/India_MedDevice.pbix`.
 ## Method notes
 
 - **Confidence flag:** `category_method` 1 and 2 = HIGH, 3 = MED, 4 and 5 = LOW. Version A of the gap uses HIGH + MED only; Version B uses all rows.
@@ -91,7 +99,7 @@ Also included: `Data_validation_files.py`, `fresh_cdsco_validation.py`, `fda_val
 ## Limitations
 
 - **Registration counts are not demand.** A licence count shows what is licensed, not what is bought or used.
-- **The pipeline gap is a pipeline asymmetry.** It compares FDA clearance share with CDSCO licence share. It does not measure unmet demand.
+- **The pipeline gap is a pipeline asymmetry.** It compares FDA clearance share with CDSCO licence share (gap = FDA share minus CDSCO share, in percentage points, 2018-2026). It does not measure unmet demand.
 - **Applicant country is not place of manufacture.** The FDA `country` column is the applicant's country.
 - **Categories are rule-based.** Keyword and panel rules assign the 18 categories, with a confidence flag per row. Category accuracy has not been independently measured and no marked validation sheet is published. `validation_fda.csv` and `validation_cdsco_v2.csv` are unmarked sample files.
 - **2026 is a partial year.** FDA data ends 2026-09-19.
@@ -102,4 +110,3 @@ Also included: `Data_validation_files.py`, `fresh_cdsco_validation.py`, `fda_val
 
 - Objectives 09, 12 and 13.
 - Objective 04 was dropped.
-- SQL scripts and dashboard screenshots are still to be added.
